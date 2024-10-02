@@ -21,3 +21,6 @@
 3. Print Song list
 4. Ask from user to select a song based on number (1:1). First digit is band number and second digit is song number. For example 1:1 means first band and first song which is "Green Day Somewhere" Now in our case.
  5. Playing song and asking if a user want to select different song or not. If not app terminates.
+
+
+# author : Akash Kumar Singh
